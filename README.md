@@ -13,9 +13,9 @@ Se requiere:
 1. Desarrollar el diagrama entidad-relación correspondiente a la especificación de requisitos.
 2. Se deben señalar los atributos que son clave primaria y los que son clave foránea, especificando si aceptan nulos.
 3. Escribir consultas en lenguaje SQL o en su defecto expresiones regulares para:
-a. Mostrar un ranking de las películas más alquiladas.
-b. Mostrar un ranking de los clientes que más películas alquilan.
-c. Mostrar un listado de las películas que están en lista de espera y los datos de los socios que las pidieron.
-d. Mostrar un listado de clientes que no hayan alquilado ninguna película en los últimos 90 días.
-e. Mostrar un listado de cantidad de alquileres por día de semana y género.
-f. Mostrar un listado de clientes que tienen películas sin devolver y clasificar en prioridad “baja” (los días de retraso son 3 o menos), “media” (los días de retraso son entre 3 y 6), “alta” (los días de retraso son más de 6).
+- a. Mostrar un ranking de las películas más alquiladas.
+- b. Mostrar un ranking de los clientes que más películas alquilan.
+- c. Mostrar un listado de las películas que están en lista de espera y los datos de los socios que las pidieron.
+- d. Mostrar un listado de clientes que no hayan alquilado ninguna película en los últimos 90 días.
+- e. Mostrar un listado de cantidad de alquileres por día de semana y género.
+- f. Mostrar un listado de clientes que tienen películas sin devolver y clasificar en prioridad “baja” (los días de retraso son 3 o menos), “media” (los días de retraso son entre 3 y 6), “alta” (los días de retraso son más de 6).
